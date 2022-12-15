@@ -17,14 +17,25 @@ My Very first App made in React Native with the goal of improving my knowledge.
 
 - Mobile Devices
 
+## 🔧 Tools and Tech
+
+- VsCode - <a href="https://code.visualstudio.com/" target="_blank">You can download it here</a>
+- NodeJs - <a href="https://nodejs.org/en/" target="_blank">You can download it here</a>
+- Yarn - <a href="https://classic.yarnpkg.com/en/docs/install#windows-stable" target="_blank">How to install</a>
+- Expo - <a href="https://docs.expo.dev/get-started/installation/" target="_blank">How to install</a>
+
 ## 📦 Install
 
 ```bash
-git clone https://github.com/Dev-Shinsei/imcMobile
+git clone https://github.com/Dev-Shinsei/imcMobile.git
 cd imcMobile
 yarn
 yarn start
 ```
+
+## 📝 License
+
+This repo is under MIT lincese, view more here -> <a href="./LICENSE.md">License</a>
 
 ## 😍 Socials
 
